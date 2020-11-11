@@ -1,0 +1,49 @@
+[
+  {
+    "title": "War and Peace",
+    "genre": "Historical Fiction",
+    "author": "Lev Nikolayevich Tolstoy",
+    "content": "Starting with Create React App 4, you can add a src/service-worker.js file to your project to use the built-in support for Workbox's InjectManifest plugin, which will compile your service worker and inject into it a list of URLs to precache."
+  },
+  {
+    "title": "Les Misérables",
+    "genre": "Historical Fiction",
+    "author": "Victor Hugo",
+    "content": "Starting with Create React App 4, you can add a src/service-worker.js file to your project to use the built-in support for Workbox's InjectManifest plugin, which will compile your service worker and inject into it a list of URLs to precache."
+  },
+  {
+    "title": "The Time Machine",
+    "genre": "Science Fiction",
+    "author": "H. G. Wells",
+    "content": "Starting with Create React App 4, you can add a src/service-worker.js file to your project to use the built-in support for Workbox's InjectManifest plugin, which will compile your service worker and inject into it a list of URLs to precache."
+  },
+  {
+    "title": "A Journey into the Center of the Earth",
+    "genre": "Science Fiction",
+    "author": "Jules Verne",
+    "content": "Starting with Create React App 4, you can add a src/service-worker.js file to your project to use the built-in support for Workbox's InjectManifest plugin, which will compile your service worker and inject into it a list of URLs to precache."
+  },
+  {
+    "title": "The Dark World",
+    "genre": "Fantasy",
+    "author": "Henry Kuttner",
+    "content": "Starting with Create React App 4, you can add a src/service-worker.js file to your project to use the built-in support for Workbox's InjectManifest plugin, which will compile your service worker and inject into it a list of URLs to precache."
+  },
+  {
+    "title": "The Wind in the Willows",
+    "genre": "Fantasy",
+    "author": "Kenneth Grahame",
+    "content": "Starting with Create React App 4, you can add a src/service-worker.js file to your project to use the built-in support for Workbox's InjectManifest plugin, which will compile your service worker and inject into it a list of URLs to precache."
+  },
+  {
+    "title": "Life On The Mississippi",
+    "genre": "History",
+    "author": "Mark Twain",
+    "content": "Starting with Create React App 4, you can add a src/service-worker.js file to your project to use the built-in support for Workbox's InjectManifest plugin, which will compile your service worker and inject into it a list of URLs to precache."
+  },
+  {
+    "title": "Childhood",
+    "genre": "Biography",
+    "author": "Lev Nikolayevich Tolstoy",
+    "content": "Starting with Create React App 4, you can add a src/service-worker.js file to your project to use the built-in support for Workbox's InjectManifest plugin, which will compile your service worker and inject into it a list of URLs to precache."
+  }]
